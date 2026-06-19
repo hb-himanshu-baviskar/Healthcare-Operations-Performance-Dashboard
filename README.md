@@ -154,6 +154,10 @@ The repository includes a sample dataset created specifically for portfolio demo
 
 No actual organizational data, patient information, financial records, or confidential business information has been used.
 
+📥 Download Dataset
+
+[Download Sample Dataset](dataset/Dataset-FY-25-26.xlsx)
+
 ---
 
 ## 📸 Dashboard Preview

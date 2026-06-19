@@ -157,8 +157,8 @@ No actual organizational data, patient information, financial records, or confid
 ---
 
 ## 📸 Dashboard Preview
-
-(Add screenshots here)
+### 💰 Revenue Performance Overview
+![Revenue Performance Overview](assets/revenue-performance-overview.png)
 
 ---
 

@@ -45,7 +45,7 @@ The solution combines financial, operational, and network-level KPIs into one in
 
 ## 📄 Dashboard Pages
 
-### 💰 Revenue Performance Overview
+### 1. 💰 Revenue Performance Overview
 
 **Key Insights**
 - Revenue KPIs
@@ -61,7 +61,7 @@ The solution combines financial, operational, and network-level KPIs into one in
 
 ---
 
-### 👥 Patient & Test Analytics
+### 2. 👥 Patient & Test Analytics
 
 **Key Insights**
 - Patient Volume Trends
@@ -77,7 +77,7 @@ The solution combines financial, operational, and network-level KPIs into one in
 
 ---
 
-### 📈 Centre Performance Analysis
+### 3. 📈 Centre Performance Analysis
 
 **Key Insights**
 - Growing Centres
@@ -92,7 +92,7 @@ The solution combines financial, operational, and network-level KPIs into one in
 
 ---
 
-### 🌐 Network Health Dashboard
+### 4. 🌐 Network Health Dashboard
 
 **Key Insights**
 - Total Centres

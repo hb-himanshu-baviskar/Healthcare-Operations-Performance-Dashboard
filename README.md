@@ -1,183 +1,169 @@
-# Healthcare Operations Performance Dashboard
+# 🏥 Healthcare Operations Performance Dashboard
 
-## Overview
+## 📖 Overview
 
-Healthcare organizations operate across multiple diagnostic centres and generate large volumes of operational, financial, patient, and test-related data every month. Monitoring performance across such a distributed network becomes challenging when information is spread across multiple reports and spreadsheets.
+Healthcare organizations operate across multiple diagnostic centres and generate large volumes of operational, financial, patient, and test-related data every month.
 
-To address this challenge, this Power BI dashboard was designed to provide a centralized view of operational performance across the healthcare network. The dashboard consolidates key business metrics into a single reporting solution, enabling management teams to monitor performance, identify trends, and take timely corrective actions.
-
----
-
-## Business Problem
-
-Management teams required a structured way to monitor:
-
-* Revenue performance across centres
-* Patient and test volume trends
-* Centre-level growth and decline
-* Operational performance across different business segments
-* Network expansion and centre activity
-* Overall network health and contribution
-
-Without a consolidated reporting solution, identifying underperforming centres, tracking growth opportunities, and monitoring operational efficiency was time-consuming and heavily dependent on manual analysis.
+This Power BI dashboard was designed to provide a centralized view of healthcare operations performance, enabling management teams to monitor key metrics, identify trends, and make data-driven decisions.
 
 ---
 
-## Solution
+## 🎯 Business Problem
 
-A multi-page Power BI dashboard was developed to provide a comprehensive view of healthcare operations performance.
+Management teams required a consolidated reporting solution to monitor:
 
-The solution combines financial, operational, and network-level KPIs into a single interactive dashboard that supports both strategic and operational decision-making.
+- 💰 Revenue Performance
+- 👥 Patient Volume Trends
+- 🧪 Test Volume Trends
+- 🏢 Centre Performance
+- 📈 Growth & Decline Analysis
+- 🌐 Network Health Monitoring
 
-Users can analyze performance across multiple dimensions including:
-
-* Business Segment
-* Project Category
-* State
-* Centre
-* Modality
-* Reporting Period
+Without a centralized dashboard, performance tracking relied on multiple reports and manual analysis, making timely decision-making difficult.
 
 ---
 
-## Dashboard Objectives
+## 💡 Solution
 
-The primary objectives of the dashboard are:
+A multi-page Power BI dashboard was developed to provide a single source of truth for healthcare operations performance.
 
-* Monitor revenue performance against business targets
-* Analyze patient and test volume trends
-* Evaluate centre-level operational performance
-* Identify growing, degrowing, and inactive centres
-* Track network expansion through newly active centres
-* Improve visibility into overall network health
-* Support data-driven business decisions
+The solution combines financial, operational, and network-level KPIs into one interactive reporting platform.
 
 ---
 
-## Dashboard Pages
+## 🚀 Dashboard Objectives
 
-### 1. Revenue Performance Overview
-
-Provides a financial view of organizational performance through revenue tracking and contribution analysis.
-
-Key Insights:
-
-* Budget vs Actual Performance
-* Revenue Achievement %
-* Revenue Contribution Analysis
-* Modality-wise Revenue Distribution
-* Segment-wise Revenue Distribution
-* ARPP & ARPT Trends
-
-Business Value:
-
-Helps leadership teams monitor financial performance, identify revenue drivers, and evaluate business growth opportunities.
+- 📊 Monitor revenue performance against targets
+- 👥 Analyze patient and test volume trends
+- 🏢 Evaluate centre-level performance
+- 📈 Identify growing and degrowing centres
+- 🔍 Detect inactive centres
+- 🌐 Monitor network health and expansion
+- 🎯 Support data-driven decision-making
 
 ---
 
-### 2. Patient & Test Analytics
+## 📄 Dashboard Pages
 
-Provides operational insights into service utilization and diagnostic activity.
+### 💰 Revenue Performance Overview
 
-Key Insights:
+**Key Insights**
+- Revenue KPIs
+- Budget vs Actual Analysis
+- Revenue Contribution Analysis
+- Modality & Segment Performance
+- ARPP & ARPT Trends
 
-* Patient Volume Trends
-* Test Volume Trends
-* ATPP Analysis
-* Segment-wise Contribution
-* Modality-wise Performance
-* Budget vs Actual Tracking
-
-Business Value:
-
-Supports capacity planning, demand forecasting, and operational resource allocation.
-
----
-
-### 3. Centre Performance Analysis
-
-Focuses on centre-level performance monitoring and trend analysis.
-
-Key Insights:
-
-* Growing Centres
-* Degrowing Centres
-* Inactive Centres
-* Revenue Contribution by Centre
-* Centre Performance Trends
-
-Business Value:
-
-Enables management to identify high-performing centres, detect early signs of decline, and prioritize improvement initiatives.
+**Business Value**
+- Improves financial visibility
+- Identifies revenue drivers
+- Supports growth planning
 
 ---
 
-### 4. Network Health Dashboard
+### 👥 Patient & Test Analytics
 
-Provides an overall view of network performance and operational coverage.
+**Key Insights**
+- Patient Volume Trends
+- Test Volume Trends
+- ATPP Analysis
+- Segment-wise Performance
+- Modality-wise Analysis
 
-Key Insights:
-
-* Total Centres
-* Active Centres
-* Revenue Contributing Centres
-* Newly Active Centres
-* Inactive Centres
-* Network Health Monitoring
-
-Business Value:
-
-Helps management assess network stability, expansion progress, and operational effectiveness across the organization.
+**Business Value**
+- Supports demand forecasting
+- Improves resource planning
+- Enhances operational monitoring
 
 ---
 
-## KPIs Tracked
+### 📈 Centre Performance Analysis
 
-* Revenue
-* Budget Revenue
-* Achievement %
-* Revenue Gap
-* Average Revenue
-* Patient Count
-* Test Count
-* ARPP
-* ARPT
-* ATPP
-* Active Centres
-* Revenue Contributing Centres
-* Newly Active Centres
-* Inactive Centres
-* Growing Centres
-* Degrowing Centres
+**Key Insights**
+- Growing Centres
+- Degrowing Centres
+- Inactive Centres
+- Revenue Contribution Analysis
+
+**Business Value**
+- Identifies high-performing centres
+- Detects underperforming locations
+- Supports performance improvement initiatives
 
 ---
 
-## Tools & Technologies
+### 🌐 Network Health Dashboard
 
-* Power BI
-* DAX
-* Power Query
-* Microsoft Excel
-* Data Modelling
-* Business Intelligence
-* Data Visualization
+**Key Insights**
+- Total Centres
+- Active Centres
+- Revenue Contributing Centres
+- Newly Active Centres
+- Inactive Centres
 
----
-
-## Dataset
-
-This project uses a simulated dataset created for portfolio purposes. The structure and business logic are inspired by real-world healthcare operations reporting scenarios while ensuring that no confidential organizational information is disclosed.
+**Business Value**
+- Tracks network expansion
+- Monitors operational coverage
+- Evaluates network stability
 
 ---
 
-## Dashboard Preview
+## 📌 KPIs Tracked
+
+- 💰 Revenue
+- 🎯 Budget Achievement %
+- 📉 Revenue Gap
+- 👥 Patient Count
+- 🧪 Test Count
+- 📈 ARPP
+- 📈 ARPT
+- 📈 ATPP
+- 🏢 Active Centres
+- 🌐 Revenue Contributing Centres
+- 🆕 Newly Active Centres
+- ⚠️ Inactive Centres
+- 📈 Growing Centres
+- 📉 Degrowing Centres
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+- Data Modelling
+- Business Intelligence
+
+---
+
+## 🔒 Data Privacy & Disclaimer
+
+This dashboard has been recreated using a simulated dataset for portfolio and demonstration purposes.
+
+The original dashboard was developed using organizational healthcare operations data. Due to confidentiality and data privacy requirements, actual business data cannot be publicly shared.
+
+All visualizations, KPIs, calculations, and business logic have been preserved while using representative dummy data.
+
+---
+
+## 📂 Dataset
+
+The repository includes a sample dataset created specifically for portfolio demonstration purposes.
+
+No actual organizational data, patient information, financial records, or confidential business information has been used.
+
+---
+
+## 📸 Dashboard Preview
 
 (Add screenshots here)
 
 ---
 
-## Business Impact
+## 📈 Business Impact
 
-The dashboard provides management teams with a centralized reporting solution for monitoring operational and financial performance across the healthcare network.
+This dashboard provides management teams with a centralized reporting solution for monitoring operational and financial performance across the healthcare network.
 
-By consolidating key metrics into a single analytical platform, the solution improves visibility, reduces manual reporting effort, and supports faster data-driven decision-making.
+By consolidating key metrics into a single analytical platform, the solution improves visibility, reduces manual reporting effort, and enables faster data-driven decision-making.

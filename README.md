@@ -157,11 +157,37 @@ No actual organizational data, patient information, financial records, or confid
 ---
 
 ## 📸 Dashboard Preview
+
 ### 💰 Revenue Performance Overview
+
+![Revenue Performance Overview](assets/revenue-performance-overview.png)
 
 Tracks revenue performance through budget vs actual analysis, revenue contribution monitoring, modality analysis, and financial KPI tracking.
 
-![Revenue Performance Overview](assets/revenue-performance-overview.png)
+---
+
+### 👥 Patient & Test Analytics
+
+![Patient & Test Analytics](assets/patient-test-analytics.png)
+
+Provides visibility into patient volume, test volume, ATPP trends, service utilization, and operational performance across different business segments.
+
+---
+
+### 📈 Centre Performance Analysis
+
+![Centre Performance Analysis](assets/centre-performance-analysis.png)
+
+Identifies growing centres, degrowing centres, inactive centres, and centre-level performance trends to support operational decision-making.
+
+---
+
+### 🌐 Network Health Dashboard
+
+![Network Health Dashboard](assets/network-health-dashboard.png)
+
+Monitors network performance through active centres, revenue contributing centres, newly active centres, inactive centres, and overall network health indicators.
+
 ---
 
 ## 📈 Business Impact

@@ -158,7 +158,7 @@ No actual organizational data, patient information, financial records, or confid
 
 ## 📸 Dashboard Preview
 ### 💰 Revenue Performance Overview
-
+Tracks revenue performance through budget vs actual analysis, revenue contribution monitoring, modality analysis, and financial KPI tracking.
 ![Revenue Performance Overview](assets/revenue-performance-overview.png)
 ---
 

@@ -160,32 +160,35 @@ No actual organizational data, patient information, financial records, or confid
 
 ### 💰 Revenue Performance Overview
 
-Tracks revenue performance through budget vs actual analysis, revenue contribution monitoring, modality analysis, and financial KPI tracking.
+This page provides a comprehensive view of financial performance across the healthcare network. It enables management to monitor revenue achievement against targets, analyze revenue contribution across business segments and modalities, and evaluate key financial performance indicators. The dashboard supports revenue trend analysis and helps identify major revenue drivers across the organization.
+
 ![Revenue Performance Overview](assets/revenue-performance-overview.png)
 
 ---
 
 ### 👥 Patient & Test Analytics
 
-Provides visibility into patient volume, test volume, ATPP trends, service utilization, and operational performance across different business segments.
+This page focuses on operational performance by analyzing patient and test volumes across the healthcare network. It helps management understand service utilization patterns, monitor ATPP trends, evaluate modality performance, and identify demand trends that support operational planning and resource allocation.
+
 ![Patient & Test Analytics](assets/patient-test-analytics.png)
 
 ---
 
 ### 📈 Centre Performance Analysis
 
-Identifies growing centres, degrowing centres, inactive centres, and centre-level performance trends to support operational decision-making.
+This page provides centre-level performance monitoring by identifying growing, degrowing, and inactive centres. It enables management teams to evaluate operational performance, detect underperforming locations, and identify centres that require strategic intervention or improvement initiatives.
+
 ![Centre Performance Analysis](assets/centre-performance-analysis.png)
 
 ---
 
 ### 🌐 Network Health Dashboard
 
-Monitors network performance through active centres, revenue contributing centres, newly active centres, inactive centres, and overall network health indicators.
+This page provides an overall view of network performance and operational coverage. It helps management monitor active centres, revenue-contributing centres, newly active centres, inactive centres, and overall network stability. The dashboard supports strategic decision-making related to network expansion and operational effectiveness.
+
 ![Network Health Dashboard](assets/network-health-dashboard.png)
 
 ---
-
 ## 📈 Business Impact
 
 This dashboard provides management teams with a centralized reporting solution for monitoring operational and financial performance across the healthcare network.
